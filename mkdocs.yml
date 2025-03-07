@@ -1,7 +1,8 @@
 site_name: Mi Proyecto
 nav:
   - Inicio: index.md
-  - Acerca de: about.md
+  - Alejandro Martinez uceda: about.md
+  
 theme:
   name: material
 
